@@ -5,8 +5,8 @@
 
 
 hi, I'm Md Alamgir Islam as a Mern stack developer. I have a passion for learning and sharing my knowledge with others as publicly as possible. I take great care in the experience, architecture, and code quality of the things I build. Mern Stack Developer from Bangladesh.
-(https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp)
-Skills: REACT / JAVASCRIPT / HTML / CSS / Bootstrap / Tailwind css
+
+Skills: HTML / CSS / Bootstrap / Tailwind css / REACT / JS / NODE.JS / EXPRESS JS / MONGODB
 
 - 🔭 I’m currently working on Mern Stack Development 
 - 🌱 I’m currently learning React.js 
