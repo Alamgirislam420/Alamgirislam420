@@ -1,10 +1,10 @@
-![Web Developer](https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/337282347_6129521150449912_5326665989320149623_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=_T5zZlQ2jxQAX83PC80&_nc_ht=scontent.fdac157-1.fna&oh=00_AfCWYf7fXBYVdO4DvMDVVhaFqXOXc5N_JktfAbJd93qgiw&oe=642648A9)
+![Web Developer](https://repository-images.githubusercontent.com/323452378/f65fa580-43e4-11eb-83bc-328f29dfe7f0)
 
 ### Hi there 👋, I'm Md Alamgir Islam 
-#### Web Developer
+#### Mern Stack Developer
 
 
-hi, I'm Md Alamgir Islam as a web developer. I have a passion for learning and sharing my knowledge with others as publicly as possible. I take great care in the experience, architecture, and code quality of the things I build. Web Developer from Bangladesh.
+hi, I'm Md Alamgir Islam as a Mern stack developer. I have a passion for learning and sharing my knowledge with others as publicly as possible. I take great care in the experience, architecture, and code quality of the things I build. Mern Stack Developer from Bangladesh.
 
 Skills: REACT / JS / HTML / CSS / Bootstrap / Tailwind css
 
