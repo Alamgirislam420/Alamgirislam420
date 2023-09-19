@@ -1,17 +1,17 @@
-![Web Developer](https://repository-images.githubusercontent.com/323452378/f65fa580-43e4-11eb-83bc-328f29dfe7f0)
+![Web Developer](https://res.cloudinary.com/practicaldev/image/fetch/s--rJN6sdTw--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/tvbcrzn0z4lz201b7t3s.jpg)
 
 ### Hi there 👋, I'm Md Alamgir Islam 
 #### Mern Stack Developer
 
 
 hi, I'm Md Alamgir Islam as a Mern stack developer. I have a passion for learning and sharing my knowledge with others as publicly as possible. I take great care in the experience, architecture, and code quality of the things I build. Mern Stack Developer from Bangladesh.
+(https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp)
+Skills: REACT / JAVASCRIPT / HTML / CSS / Bootstrap / Tailwind css
 
-Skills: REACT / JS / HTML / CSS / Bootstrap / Tailwind css
-
-- 🔭 I’m currently working on Web Development 
-- 🌱 I’m currently learning JavaScript 
+- 🔭 I’m currently working on Mern Stack Development 
+- 🌱 I’m currently learning React.js 
 - 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Web Development 
+- 💬 Ask me about Mern Stack Development 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Alamgirislam420)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdalamgirislama)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/alamgirislaam/)  
